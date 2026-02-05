@@ -1,4 +1,5 @@
-# projects
+# projects - DIGITAL HEALTH PLATFORMS
+
 INTRODUCTION :
 Definition and importance of digital health platforms
 Rise in usage due to lifestyle diseases and COVID-19
